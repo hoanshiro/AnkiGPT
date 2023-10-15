@@ -1,5 +1,5 @@
 # AnkiGPT
-Generate Anki Desk with ChatGPT support
+Generate Anki Desk with ChatGPT Support.
 # Proof Of Concept
 ## 1. Set up credentials
 
